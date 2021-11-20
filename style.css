@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+
+}
+ body{
+    min-height:100%;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: 100%;
+}
+ul{
+    list-style: none;
+}
+.navh{
+    text-align: right;
+    align-items: center;
+    padding: 8px;
+}
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.googlelogo{
+    text-align: center;
+    padding-top: 80px;
+}
+.search{
+    text-align: center;
+}
+.googleSearch{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.searchIcon{
+    width: 20px;
+    height:20px;
+}
+.voiceSearch{
+    width: 20px;
+    height: 20px;
+
+}
+.button{
+    text-align: center;
+}
+.language{
+    text-align: center;
+    padding-top: 20px;
+}
+.footerclass{
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: whitesmoke;
+}
+li{
+    display: inline;
+}
+.location {
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.footer_right{
+    text-align: left;
+    vertical-align: top;
+
+}
+.carbon{
+    text-align: center;
+    vertical-align: top;
+}
+.footer_left{
+    text-align: right;
+    vertical-align: top;
+}
